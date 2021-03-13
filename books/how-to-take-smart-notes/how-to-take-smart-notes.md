@@ -11,9 +11,7 @@ Content in 3 sentences:
 - b
 - c
 
-Authors: Sönke Ahrens
-
-Best 3 Insights: 
+Authors: Sönke Ahrens 
 
 Web: https://www.amazon.de/How-Take-Smart-Notes-Nonfiction/dp/1542866502/ref=sr_1_1?adgrpid=76673940608&dchild=1&gclid=Cj0KCQiA1pyCBhCtARIsAHaY_5e1Ij6dF92AXKaxeoY1wd0laKjbTVSo3ur8sQw_LH90bgDbqh1YdGcaAuyZEALw_wcB&hvadid=352844116748&hvdev=c&hvlocphy=9042987&hvnetw=g&hvqmt=e&hvrand=7486430081344503893&hvtargid=kwd-431918004859&hydadcr=11595_1741698&keywords=how+to+take+smart+notes&qid=1615360944&sr=8-1
 
