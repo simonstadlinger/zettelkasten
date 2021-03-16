@@ -13,7 +13,7 @@ Authors: Neil Postman
 
 Best 3 Insights:
 
-Web:
+Web: 
 
 Content:
 - Part 1
@@ -22,3 +22,7 @@ Content:
   - III Typographic America
   - IV The Typographic Mind
   - V [[The Peek-a-Boo World]]
+- Part 2
+  - [[The Age of Show Business]]
+  - Now ... this
+  - [[Shuffle of to Bethlehem]]
