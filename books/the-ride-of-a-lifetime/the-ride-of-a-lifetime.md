@@ -1,5 +1,5 @@
 ---
-tags:
+tags: leadership
 ---
 
 # The ride of a lifetime
